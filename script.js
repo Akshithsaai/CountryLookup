@@ -23,7 +23,7 @@ function getdata(country){
     }
     );
 }
-getdata("India");//default country
+getdata("Bharat");//default country
 
 //adding eventlistener to search button
 document.querySelector(".search-btn").addEventListener("click",(e)=>{
